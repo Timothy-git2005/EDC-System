@@ -1,5 +1,6 @@
 # --- secrets ---
 .env
+config/datainfo.properties
 
 # --- large downloads ---
 *.war
